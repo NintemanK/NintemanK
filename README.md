@@ -1,6 +1,6 @@
 # Hi, I'm Kars
 
-Software Engineer based in Groningen, Netherlands. I build backends, ship them through CI/CD, and occasionally make robots move.
+Software Engineer based in Groningen, Netherlands. I currently work at Hanze University of Applied Sciences (the largest University of Applied Sciences in the northern Netherlands) where I build backends, ship them through CI/CD, and occasionally make robots move.
 
 I work across the stack, Python/FastAPI services on Azure, Next.js frontends, Azure DevOps pipelines, with a side interest in ROS 2 robotics. 
 
