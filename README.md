@@ -2,7 +2,7 @@
 
 Software Engineer based in Groningen, Netherlands. I build backends, ship them through CI/CD, and occasionally make robots move.
 
-I work across the stack — Python/FastAPI services on Azure, Next.js frontends, Azure DevOps pipelines — with a side interest in ROS 2 robotics. I care about code review, tests that actually catch things, and pipelines that fail loudly before bad code reaches prod.
+I work across the stack, Python/FastAPI services on Azure, Next.js frontends, Azure DevOps pipelines, with a side interest in ROS 2 robotics. 
 
 ### What I work with
 
@@ -28,17 +28,23 @@ I work across the stack — Python/FastAPI services on Azure, Next.js frontends,
 
 - Building and reviewing backend data-monitoring systems (Python / Azure Functions)
 - Designing CI/CD pipelines that catch security issues before merge
-- Mentoring students and tinkering with ROS 2 in my own time
+- Mentoring students
+- Tinkering with ROS 2 for the Pieperkieker
+
+### Featured project — PieperKieker
+
+A robotics project built with the team at [Hanze MakerSpace]. I'm the **sole developer responsible for making the robot driveable**: [owning the drive system end to end: motor control, kinematics, and closed-loop driving].
+
+<video src="https://github.com/user-attachments/assets/a90bb940-5282-45ec-8e07-1b15d501f763" controls width="600"></video>
 
 ### A bit more
 
-HBO-ICT (Software Engineering) graduate. When I'm not in a terminal you'll probably find me watching football. [— Oranje fan, you've been warned.]
+HBO-ICT (Software Engineering) graduate.
 
 ### Reach me
 
-- [LinkedIn](https://linkedin.com/in/your-handle)
-- [your.email@example.com](mailto:your.email@example.com)
-- Portfolio: [your-site.dev](https://your-site.dev)
+- [LinkedIn]([https://linkedin.com/in/your-handle](https://www.linkedin.com/in/kars-ninteman/))
+- [your.email@example.com](mailto:k.ninteman@pl.hanze.nl)
 
 <!-- Optional: uncomment to add GitHub stats once you've got public repos worth showing
 ![Kars's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)
