@@ -44,7 +44,7 @@ HBO-ICT (Software Engineering) graduate.
 ### Reach me
 
 - [LinkedIn]([https://linkedin.com/in/your-handle](https://www.linkedin.com/in/kars-ninteman/))
-- [your.email@example.com](mailto:k.ninteman@pl.hanze.nl)
+- [k.ninteman@pl.hanze.nl](mailto:k.ninteman@pl.hanze.nl)
 
 <!-- Optional: uncomment to add GitHub stats once you've got public repos worth showing
 ![Kars's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)
