@@ -35,7 +35,7 @@ I work across the stack, Python/FastAPI services on Azure, Next.js frontends, Az
 
 A robotics project built with the team at [Hanze MakerSpace]. I'm the **sole developer responsible for making the robot driveable**: [owning the drive system end to end: motor control, kinematics, and closed-loop driving].
 
-<video src="https://github.com/user-attachments/assets/a90bb940-5282-45ec-8e07-1b15d501f763" controls width="600"></video>
+<video src="https://github.com/user-attachments/assets/2f9661e7-5c73-4446-8891-3bcf41f35576" controls width="600"></video>
 
 ### A bit more
 
